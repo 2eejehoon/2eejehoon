@@ -1,9 +1,6 @@
 <div style="display: flex, justify-content: center, align-items: center, width: 100%, height: 100px">
   <h2>
-    안녕하세요, 
-    <br/>
-      프론트엔드 개발자 이제훈입니다. 
-    <br/>
+    안녕하세요, 프론트엔드 개발자 이제훈입니다. 
   </h2>
 </div>
 <div>
